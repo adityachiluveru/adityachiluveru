@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/adityachiluveru/static/css/main.d5991c90.css",
+    "main.js": "/adityachiluveru/static/js/main.e5c2885f.js",
+    "static/js/453.9453b3cc.chunk.js": "/adityachiluveru/static/js/453.9453b3cc.chunk.js",
+    "static/media/background@2x.png": "/adityachiluveru/static/media/background@2x.0003540bcf3a17859bc7.png",
+    "static/media/figma-design--2png@3x.png": "/adityachiluveru/static/media/figma-design--2png@3x.d224d30886e6259a3684.png",
+    "index.html": "/adityachiluveru/index.html",
+    "main.d5991c90.css.map": "/adityachiluveru/static/css/main.d5991c90.css.map",
+    "main.e5c2885f.js.map": "/adityachiluveru/static/js/main.e5c2885f.js.map",
+    "453.9453b3cc.chunk.js.map": "/adityachiluveru/static/js/453.9453b3cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5991c90.css",
+    "static/js/main.e5c2885f.js"
+  ]
+}
