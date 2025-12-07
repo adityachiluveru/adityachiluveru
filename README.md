@@ -135,7 +135,6 @@ Some domains I’m particularly interested in:
 📌 LinkedIn → **https://linkedin.com/in/adityachiluveru**  
 📌 Email → *adityasworkspace25.com@gmail.com*
 
-> 🔐 I haven’t inserted direct personal IDs for privacy — update with your actual links.
 
 ---
 
