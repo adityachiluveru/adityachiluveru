@@ -1,111 +1,150 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=500&lines=Hey+👋,+I'm+Aditya;Data+Science+Learner+%7C+Algo+Trader+%7C+Builder" />
-</h1>
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Aditya</h1>
+<h3 align="center">Aspiring Data Scientist · Algo & Crypto Trader · Developer</h3>
 
-<h3 align="center">Turning markets, automation, and AI into real-world systems 🚀</h3>
-
-
+<p align="center">
+  <em>Blending markets, machine learning, and code into real-world projects 🚀</em>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 📍 Based in **India**
-- 📊 **7+ years** experience in equities, derivatives & crypto markets
-- 🎯 Focused on **Algorithmic trading, ML applications & applied analytics**
-- 🛠 I build:
-  - Trading dashboards  
-  - Research automation workflows  
-  - ML-based decision support tools  
-  - Market heatmap analytics  
+- 📊 Have **7+ years of trading experience** (Equities, Derivatives, Crypto)
+- 📈 Exploring **algorithmic trading, data science & ML** for real market workflows  
+- 🎓 Preparing for **Masters & advanced data science / ML projects**
+- 🧠 Love building:
+  - Trading dashboards & analytics tools  
+  - Data pipelines & automation workflows  
+  - ML-based decision support systems  
 
 ---
 
-## 🔭 Current Work
+## 🔭 What I’m Working On
 
-- 🧮 Transforming **trading strategies into algorithms & indicators**
-- 🤖 Developing ML use cases for:
+- 🧮 Converting my **trading strategies into algorithms & indicators**
+- 🤖 Building **ML projects** for:
   - Prediction  
-  - Fraud/Anomaly detection  
-  - NLP & Sentiment analytics  
-  - Recommendation modelling  
-- 📊 Designing **dashboard-based research systems**
-- 📚 Strengthening fundamentals in:
-  - OS · DBMS · Algorithms (ADA) · Software Engineering  
+  - Anomaly/Fraud Detection  
+  - Recommendation Systems  
+  - NLP & Market Sentiment Analysis  
+  - Heatmap-based visual analytics  
+- 📊 Creating **data analytics dashboards** (web + Python) for research & portfolios
+- 🧱 Strengthening **core CS fundamentals**:
+  - Operating Systems  
+  - DBMS  
+  - Algorithms (ADA)  
+  - Software Engineering  
 
 ---
 
-## 🛠 Tech Stack & Tools  
+## 🛠 Tech & Tools I Use / Learn
 
-### 🔹 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+### 💻 Languages & Core
+- Python (pandas, numpy, matplotlib, scikit-learn)
+- SQL (queries, joins, subqueries, triggers, views)
+- C (OS & scheduling algorithms)
+- HTML · CSS · JavaScript · TypeScript (learning)
 
-### 🔹 ML / Data  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib)
-![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E?logo=scikit-learn)
+### 📊 Data, ML & Analytics
+- Data Cleaning & EDA  
+- Regression, Classification, Clustering  
+- Information Retrieval Systems (IRS)  
+- Business & Economics fundamentals for markets  
 
-### 🔹 Web / Dashboards  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+### 🌐 Web & Dashboards
+- React (with Vite) · Tailwind CSS  
+- Streamlit / basic web dashboards  
+- API integration (public market data, no-key APIs)
 
-### 🔹 Workflow Tools  
-![n8n](https://img.shields.io/badge/n8n-EA4AAA?logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode)
+### ⚙️ Automation & Workflow
+- n8n (automation workflows & API orchestration)
+- Git & GitHub  
+- VS Code  
 
 ---
 
-## 📚 Learning Roadmaps  
+## 📚 Current Learning Roadmaps
 
-- **Machine Learning** → ANN, BNN, linear models, evaluation  
-- **Algorithms (ADA)** → DP, greedy, divide & conquer, graph theory  
-- **DBMS** → concurrency, recovery, triggers, indexing  
-- **IRS** → ranking models, indexing, relevance feedback  
+- 🤖 **Machine Learning & Data Science**
+  - Concept Learning  
+  - Perceptron / ANN / BNN  
+  - Linear Models & Model Evaluation  
+  - Real-world case studies  
+
+- 📚 **Algorithms (ADA)**
+  - Time & Space Complexity  
+  - Greedy, Divide & Conquer, DP  
+  - Graph Algorithms  
+
+- 🗄 **DBMS & SQL**
+  - Concurrency & Recovery  
+  - Transactions & Indexing  
+
+- 🧠 **Information Retrieval Systems**
+  - Search Models  
+  - Ranking & Relevance  
+  - Indexing + Evaluation  
 
 ---
 
-## 🚀 Interest Areas  
+## 🚀 Highlighted Interests & Project Themes
 
-- Algorithmic trading systems  
-- Risk dashboards  
-- Strategy modelling  
-- Heatmap analytics  
-- Fraud/anomaly detection  
-- NLP & time-series research  
+Some domains I’m particularly interested in:
+
+- 📉 **Trading & Markets**
+  - Backtesting frameworks  
+  - Strategy analytics dashboards  
+  - Risk & position management helpers  
+
+- 🔍 **Anomaly & Fraud Detection**
+  - Fake news detection  
+  - Spam identification  
+  - Market anomaly tracking  
+  - Heatmap-based visual analytics  
+
+- 📡 **Data Science for Real-World Signals**
+  - Market sentiment & behavioural modeling  
+  - Time-series insights  
+  - Explainable algorithms  
+
+> If you work on similar problems, I’m always open to discussions & collaborations 🙂
 
 ---
 
-## 📈 GitHub Activity  
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityachiluveru&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityachiluveru&show_icons=true&theme=transparent" alt="Aditya's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityachiluveru&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityachiluveru&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachiluveru&layout=compact&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityachiluveru&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔗 Connect With Me  
+## 📫 Connect With Me
 
 📌 Portfolio → **https://portfolio0-aditya.netlify.app/**  
 📌 LinkedIn → **https://linkedin.com/in/adityachiluveru**  
-📌 Email → **adityasworkspace25.com@gmail.com**
+📌 Email → *adityasworkspace25.com@gmail.com*
+
+> 🔐 I haven’t inserted direct personal IDs for privacy — update with your actual links.
 
 ---
 
-<p align="center">⭐ Thanks for visiting — feel free to connect or collaborate!</p>
+## ✨ Fun Dev + Trading Combo
+
+- 🧮 I like turning **market intuition into code**  
+- 📓 I treat GitHub like a **lab notebook** for experiments  
+- 🎯 Goal: build **production-grade, data-driven trading intelligence systems**
+
+Thanks for stopping by! ⭐  
+If you like anything here, consider **starring** some repos or opening a PR —  
+I’m always happy to learn from feedback.
